@@ -10,3 +10,6 @@ print(sum)
 
 print("The answer is",sum)# prints the statement and the answer"""
 
+surname = input ("Enter your surname:  ")
+print ("Hello ",surname)
+
